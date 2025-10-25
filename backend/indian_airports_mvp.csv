@@ -1,0 +1,48 @@
+iata,name,city,lat,lon,is_international,has_commercial
+BLR,Kempegowda International Airport,Bengaluru,13.1989,77.7063,True,True
+IXE,Mangaluru International Airport,Mangaluru,12.9613,74.8901,True,True
+BOM,Chhatrapati Shivaji Maharaj International Airport,Mumbai,19.0896,72.8656,True,True
+DEL,Indira Gandhi International Airport,Delhi,28.5562,77.1,True,True
+HYD,Rajiv Gandhi International Airport,Hyderabad,17.2403,78.4294,True,True
+MAA,Chennai International Airport,Chennai,12.9941,80.1709,True,True
+COK,Cochin International Airport,Kochi,10.151,76.4019,True,True
+TRV,Trivandrum International Airport,Thiruvananthapuram,8.4821,76.9201,True,True
+GOX,Manohar International Airport,Mopa (Goa),15.7231,73.8194,True,True
+GOI,Dabolim Airport,Vasco da Gama (Goa),15.3808,73.8314,True,True
+PNQ,Pune International Airport,Pune,18.5793,73.9089,True,True
+NAG,Dr. Babasaheb Ambedkar International Airport,Nagpur,21.0922,79.0472,True,True
+AMD,Sardar Vallabhbhai Patel International Airport,Ahmedabad,23.0734,72.6242,True,True
+CCU,Netaji Subhas Chandra Bose International Airport,Kolkata,22.6547,88.4467,True,True
+PAT,Jay Prakash Narayan Airport,Patna,25.5913,85.088,False,True
+GAU,Lokpriya Gopinath Bordoloi International Airport,Guwahati,26.1061,91.5859,True,True
+IXC,Chandigarh Airport,Chandigarh,30.6735,76.7885,False,True
+LKO,Chaudhary Charan Singh International Airport,Lucknow,26.7606,80.8893,True,True
+VNS,Lal Bahadur Shastri Airport,Varanasi,25.4524,82.8594,False,True
+AYJ,Maharishi Valmiki International Airport,Ayodhya,26.7491,82.1517,True,True
+IXZ,Veer Savarkar International Airport,Port Blair,11.6412,92.7297,True,True
+IXB,Bagdogra International Airport,Siliguri,26.6812,88.3286,True,True
+JAI,Jaipur International Airport,Jaipur,26.8242,75.8122,True,True
+UDR,Maharana Pratap Airport,Udaipur,24.6177,73.8961,False,True
+BBI,Biju Patnaik International Airport,Bhubaneswar,20.2444,85.8178,True,True
+RPR,Swami Vivekananda Airport,Raipur,21.1804,81.7388,False,True
+RAJ,Rajkot International Airport (Hirasar),Rajkot,22.311,70.779,True,True
+IDR,Devi Ahilya Bai Holkar Airport,Indore,22.724,75.8011,False,True
+JLR,Jabalpur Airport,Jabalpur,23.1778,80.052,False,True
+HBX,Hubballi Airport,Hubballi,15.3617,75.0858,False,True
+VGA,Vijayawada International Airport,Vijayawada,16.5304,80.7968,True,True
+VTZ,Visakhapatnam International Airport,Visakhapatnam,17.7212,83.2245,True,True
+IXM,Madurai Airport,Madurai,9.8345,78.0934,False,True
+TRZ,Tiruchirappalli International Airport,Tiruchirappalli,10.7654,78.7097,True,True
+IXR,Birsa Munda Airport,Ranchi,23.3158,85.3217,False,True
+SXR,Sheikh ul-Alam International Airport,Srinagar,33.9871,74.7743,True,True
+IXJ,Jammu Airport,Jammu,32.6891,74.8378,False,True
+ATQ,Sri Guru Ram Dass Jee International Airport,Amritsar,31.7096,74.7973,True,True
+BDQ,Vadodara Airport,Vadodara,22.3362,73.2263,False,True
+IXU,Aurangabad Airport,Aurangabad (Ch. Sambhajinagar),19.8627,75.3981,False,True
+SAG,Shirdi International Airport,Shirdi,19.6882,74.3789,False,True
+IXA,Maharaja Bir Bikram Airport,Agartala,23.887,91.2404,True,True
+IXI,Lilabari Airport,North Lakhimpur,27.2955,94.0976,False,True
+DMU,Dimapur Airport,Dimapur,25.8839,93.7711,False,True
+DIB,Dibrugarh Airport,Dibrugarh,27.4839,95.0169,False,True
+IXS,Silchar Airport,Silchar,24.9129,92.9787,False,True
+IMF,Imphal International Airport,Imphal,24.7599,93.8967,True,True
